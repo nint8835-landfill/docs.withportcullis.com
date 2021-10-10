@@ -104,7 +104,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Riley Flynn. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Riley Flynn.`,
       },
       prism: {
         theme: lightCodeTheme,
