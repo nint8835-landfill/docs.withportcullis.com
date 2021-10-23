@@ -5,3 +5,5 @@ slug: /
 ---
 
 # Portcullis
+
+HELLO DISCORD!
